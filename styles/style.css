@@ -121,6 +121,7 @@ body{
 
 .presentacion__enlaces__link:hover{
     background-color: var(--color-hover);
+    transition: 0.25s;
 }
 
 .presentacion__imagen{
